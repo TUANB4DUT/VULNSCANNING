@@ -30,6 +30,7 @@ Index.php?option=com_collector&view=filelist&tmpl=component&folder=&type=1
 /editor/filemanager/connectors/test.html
 /fileupload/index.php
 /wp-admin
+/thumb.php
 /admin
 /cbt/panel/pages/upload-file.php
 /beesmart/panel/pages/upload-file.php
