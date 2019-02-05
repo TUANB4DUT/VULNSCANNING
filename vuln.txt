@@ -45,3 +45,7 @@ Index.php?option=com_collector&view=filelist&tmpl=component&folder=&type=1
 /portalsmart/assets/filemanager/dialog.php
 /web-p2bj/hi-admin/filemanager/dialog.php
 /file_manager/php/connector.php
+/panel/pages/upload_video.php
+/panel/pages/upload_gambar.php
+/panel/pages/upload_audio.php
+/panel/pages/upload-banner.php
