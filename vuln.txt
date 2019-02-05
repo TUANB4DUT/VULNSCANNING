@@ -49,8 +49,12 @@ Index.php?option=com_collector&view=filelist&tmpl=component&folder=&type=1
 /panel/pages/upload_gambar.php
 /panel/pages/upload_audio.php
 /panel/pages/upload-banner.php
+/panel/pages/upload-fotosiswa.php
+/panel/pages/upload-logo.php
 /tryout
 /elearning
 /tryout/panel/pages/login.php
 tryout/panel/pages/upload-file.php
 tryout/panel/pages/upload_file.php
+/login.php
+/wp-admin
