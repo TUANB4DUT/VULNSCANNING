@@ -58,3 +58,9 @@ tryout/panel/pages/upload-file.php
 tryout/panel/pages/upload_file.php
 /login.php
 /wp-admin
+/assets/global/plugins/jquery-file-upload
+/assets/global/
+/assets/global/plugins
+/assets/global/plugins/jquery-file-upload
+/sitefinity/UserControls/Dialogs/DocumentEditorDialog.aspx
+inurl:"/assets/global/plugins/jquery-file-upload/server/php/files/"
