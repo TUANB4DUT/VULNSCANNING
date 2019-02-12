@@ -21,8 +21,8 @@
 /login.php
 /register.php
 /admincp/index.php
-index.php?option=com_collector
-Index.php?option=com_collector&view=filelist&tmpl=component&folder=&type=1
+/index.php?option=com_collector
+/Index.php?option=com_collector&view=filelist&tmpl=component&folder=&type=1
 /uploadbutton.html
 /html/siswa.php?
 /html/guru.php?
